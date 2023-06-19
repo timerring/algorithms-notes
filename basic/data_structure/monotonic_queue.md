@@ -1,3 +1,8 @@
+- [队列算法模板](#队列算法模板)
+    - [例题：滑动窗口](#例题滑动窗口)
+      - [code](#code)
+
+
 # 队列算法模板
 
 ![](https://raw.githubusercontent.com/timerring/picgo/master/picbed/image-20221018164619567.png)
