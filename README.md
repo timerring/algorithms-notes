@@ -42,6 +42,8 @@ Algorithm for Interview and Operating Examination
 
 ### 参考书籍
 
++ [1] [李煜东. 算法竞赛进阶指南[M]. 河南：电子音像出版社, 2018.](https://github.com/timerring/algorithms-notes/blob/main/reference/algorithm_competition_guidelines.pdf)
+
 ### ChangeLog
 
 - v1.1 第一章内容更新 230618
